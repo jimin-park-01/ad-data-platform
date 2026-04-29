@@ -16,7 +16,14 @@ External → Kafka → Spark → S3 → Iceberg → Athena → QuickSight
 
 ## 📌 Tech Stack
 
-Kafka, Spark, Iceberg, S3, Glue Catalog, Athena, Airflow, QuickSight
+- Kafka
+- Spark
+- Iceberg
+- S3
+- Glue Catalog
+- Athena
+- Airflow
+- QuickSight
 
 
 ## 📊 What I’m Building
